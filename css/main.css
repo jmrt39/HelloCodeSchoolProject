@@ -1,0 +1,29 @@
+*{
+	margin: 0 auto;
+	padding: 0; 
+}
+
+body{
+	background: #2D3033;
+}
+
+html{
+	text-align:center;
+}
+
+ul li{
+	list-style: none; 
+	padding: 5px; 
+}
+
+.head{
+	background: #1C91A8;
+	color: white; 
+	line-height: 75px; 
+}
+
+.list{
+	height: 100%;
+	color: #60676B; 
+	line-height: 50px;
+}
